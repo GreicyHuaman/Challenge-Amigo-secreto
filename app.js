@@ -41,4 +41,3 @@ function sortearAmigo() {
     const amigoSorteado = amigos[Math.floor(Math.random() * amigos.length)];
     alert(`El amigo secreto  sorteado es: ${amigoSorteado}`);
 }
-
